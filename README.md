@@ -19,4 +19,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/vedantvijay/Leet_D/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vedantvijay/Leet_D/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vedantvijay/Leet_D/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vedantvijay/Leet_D/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vedantvijay/Leet_D/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
