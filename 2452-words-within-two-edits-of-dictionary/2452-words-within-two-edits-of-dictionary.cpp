@@ -11,6 +11,7 @@ public:
                         c++;
                     }
                 }
+                
                 if (c <= 2) {
                     ans.push_back(queries[i]);
                     break;
