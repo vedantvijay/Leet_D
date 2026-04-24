@@ -55,8 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/vedantvijay/Leet_D/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2833-furthest-point-from-origin](https://github.com/vedantvijay/Leet_D/tree/master/2833-furthest-point-from-origin) |
 ## Trie
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/vedantvijay/Leet_D/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/vedantvijay/Leet_D/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
