@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/vedantvijay/Leet_D/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/vedantvijay/Leet_D/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/vedantvijay/Leet_D/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/vedantvijay/Leet_D/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vedantvijay/Leet_D/tree/master/0004-median-of-two-sorted-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/vedantvijay/Leet_D/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/vedantvijay/Leet_D/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/vedantvijay/Leet_D/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/vedantvijay/Leet_D/tree/master/0509-fibonacci-number) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/vedantvijay/Leet_D/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/vedantvijay/Leet_D/tree/master/1559-detect-cycles-in-2d-grid) |
+## Geometry
+|  |
+| ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/vedantvijay/Leet_D/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+## Sorting
+|  |
+| ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/vedantvijay/Leet_D/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 <!---LeetCode Topics End-->
