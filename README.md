@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vedantvijay/Leet_D/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vedantvijay/Leet_D/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vedantvijay/Leet_D/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vedantvijay/Leet_D/tree/master/0347-top-k-frequent-elements) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/vedantvijay/Leet_D/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/vedantvijay/Leet_D/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vedantvijay/Leet_D/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vedantvijay/Leet_D/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vedantvijay/Leet_D/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/vedantvijay/Leet_D/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/vedantvijay/Leet_D/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Divide and Conquer
