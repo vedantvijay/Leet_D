@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/vedantvijay/Leet_D/tree/master/0205-isomorphic-strings) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vedantvijay/Leet_D/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0796-rotate-string](https://github.com/vedantvijay/Leet_D/tree/master/0796-rotate-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/vedantvijay/Leet_D/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/vedantvijay/Leet_D/tree/master/2833-furthest-point-from-origin) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/vedantvijay/Leet_D/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/vedantvijay/Leet_D/tree/master/0347-top-k-frequent-elements) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vedantvijay/Leet_D/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2784-check-if-array-is-good](https://github.com/vedantvijay/Leet_D/tree/master/2784-check-if-array-is-good) |
 ## Heap (Priority Queue)
 |  |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vedantvijay/Leet_D/tree/master/0347-top-k-frequent-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vedantvijay/Leet_D/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
