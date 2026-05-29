@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/vedantvijay/Leet_D/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2553-separate-the-digits-in-an-array](https://github.com/vedantvijay/Leet_D/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/vedantvijay/Leet_D/tree/master/2784-check-if-array-is-good) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vedantvijay/Leet_D/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/vedantvijay/Leet_D/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/vedantvijay/Leet_D/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Binary Search
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/vedantvijay/Leet_D/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/vedantvijay/Leet_D/tree/master/0509-fibonacci-number) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/vedantvijay/Leet_D/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vedantvijay/Leet_D/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/vedantvijay/Leet_D/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Dynamic Programming
 |  |
