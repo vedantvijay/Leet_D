@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vedantvijay/Leet_D/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/vedantvijay/Leet_D/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/vedantvijay/Leet_D/tree/master/0347-top-k-frequent-elements) |
+| [0682-baseball-game](https://github.com/vedantvijay/Leet_D/tree/master/0682-baseball-game) |
 | [0912-sort-an-array](https://github.com/vedantvijay/Leet_D/tree/master/0912-sort-an-array) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/vedantvijay/Leet_D/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/vedantvijay/Leet_D/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/vedantvijay/Leet_D/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/vedantvijay/Leet_D/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/vedantvijay/Leet_D/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
@@ -208,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vedantvijay/Leet_D/tree/master/0002-add-two-numbers) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/vedantvijay/Leet_D/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
