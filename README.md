@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vedantvijay/Leet_D/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/vedantvijay/Leet_D/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/vedantvijay/Leet_D/tree/master/0509-fibonacci-number) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/vedantvijay/Leet_D/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vedantvijay/Leet_D/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/vedantvijay/Leet_D/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/vedantvijay/Leet_D/tree/master/0912-sort-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/vedantvijay/Leet_D/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
