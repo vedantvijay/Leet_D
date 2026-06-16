@@ -71,12 +71,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/vedantvijay/Leet_D/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/vedantvijay/Leet_D/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/vedantvijay/Leet_D/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [1971-find-if-path-exists-in-graph](https://github.com/vedantvijay/Leet_D/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/vedantvijay/Leet_D/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/vedantvijay/Leet_D/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/vedantvijay/Leet_D/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [1971-find-if-path-exists-in-graph](https://github.com/vedantvijay/Leet_D/tree/master/1971-find-if-path-exists-in-graph) |
 ## String
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/vedantvijay/Leet_D/tree/master/0102-binary-tree-level-order-traversal) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/vedantvijay/Leet_D/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/vedantvijay/Leet_D/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1971-find-if-path-exists-in-graph](https://github.com/vedantvijay/Leet_D/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -161,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/vedantvijay/Leet_D/tree/master/0102-binary-tree-level-order-traversal) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/vedantvijay/Leet_D/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
