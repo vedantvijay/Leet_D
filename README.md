@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vedantvijay/Leet_D/tree/master/0049-group-anagrams) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vedantvijay/Leet_D/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vedantvijay/Leet_D/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/vedantvijay/Leet_D/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/vedantvijay/Leet_D/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/vedantvijay/Leet_D/tree/master/0912-sort-an-array) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/vedantvijay/Leet_D/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vedantvijay/Leet_D/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/vedantvijay/Leet_D/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/vedantvijay/Leet_D/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/vedantvijay/Leet_D/tree/master/0912-sort-an-array) |
 ## Two Pointers
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vedantvijay/Leet_D/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/vedantvijay/Leet_D/tree/master/0347-top-k-frequent-elements) |
 | [2833-furthest-point-from-origin](https://github.com/vedantvijay/Leet_D/tree/master/2833-furthest-point-from-origin) |
 ## Breadth-First Search
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/vedantvijay/Leet_D/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/vedantvijay/Leet_D/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/vedantvijay/Leet_D/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/vedantvijay/Leet_D/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vedantvijay/Leet_D/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/vedantvijay/Leet_D/tree/master/0912-sort-an-array) |
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vedantvijay/Leet_D/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/vedantvijay/Leet_D/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/vedantvijay/Leet_D/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/vedantvijay/Leet_D/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vedantvijay/Leet_D/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vedantvijay/Leet_D/tree/master/0347-top-k-frequent-elements) |
