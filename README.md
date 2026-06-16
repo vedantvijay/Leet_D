@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vedantvijay/Leet_D/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vedantvijay/Leet_D/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vedantvijay/Leet_D/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/vedantvijay/Leet_D/tree/master/0912-sort-an-array) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/vedantvijay/Leet_D/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/vedantvijay/Leet_D/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/vedantvijay/Leet_D/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vedantvijay/Leet_D/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/vedantvijay/Leet_D/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/vedantvijay/Leet_D/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vedantvijay/Leet_D/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/vedantvijay/Leet_D/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vedantvijay/Leet_D/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/vedantvijay/Leet_D/tree/master/0912-sort-an-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/vedantvijay/Leet_D/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2784-check-if-array-is-good](https://github.com/vedantvijay/Leet_D/tree/master/2784-check-if-array-is-good) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/vedantvijay/Leet_D/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -154,10 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vedantvijay/Leet_D/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/vedantvijay/Leet_D/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vedantvijay/Leet_D/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/vedantvijay/Leet_D/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -178,4 +183,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/vedantvijay/Leet_D/tree/master/1971-find-if-path-exists-in-graph) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vedantvijay/Leet_D/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vedantvijay/Leet_D/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vedantvijay/Leet_D/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
