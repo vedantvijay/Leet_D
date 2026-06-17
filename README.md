@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vedantvijay/Leet_D/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/vedantvijay/Leet_D/tree/master/0025-reverse-nodes-in-k-group) |
 | [0509-fibonacci-number](https://github.com/vedantvijay/Leet_D/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vedantvijay/Leet_D/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/vedantvijay/Leet_D/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/vedantvijay/Leet_D/tree/master/0025-reverse-nodes-in-k-group) |
 | [0148-sort-list](https://github.com/vedantvijay/Leet_D/tree/master/0148-sort-list) |
 ## Stack
 |  |
