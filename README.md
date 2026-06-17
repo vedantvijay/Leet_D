@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vedantvijay/Leet_D/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/vedantvijay/Leet_D/tree/master/0347-top-k-frequent-elements) |
 | [0682-baseball-game](https://github.com/vedantvijay/Leet_D/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/vedantvijay/Leet_D/tree/master/0735-asteroid-collision) |
 | [0912-sort-an-array](https://github.com/vedantvijay/Leet_D/tree/master/0912-sort-an-array) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/vedantvijay/Leet_D/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/vedantvijay/Leet_D/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/vedantvijay/Leet_D/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/vedantvijay/Leet_D/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/vedantvijay/Leet_D/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/vedantvijay/Leet_D/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
@@ -219,4 +221,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/vedantvijay/Leet_D/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/vedantvijay/Leet_D/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
