@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vedantvijay/Leet_D/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/vedantvijay/Leet_D/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/vedantvijay/Leet_D/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/vedantvijay/Leet_D/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/vedantvijay/Leet_D/tree/master/0347-top-k-frequent-elements) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vedantvijay/Leet_D/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/vedantvijay/Leet_D/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/vedantvijay/Leet_D/tree/master/0912-sort-an-array) |
 ## Bucket Sort
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vedantvijay/Leet_D/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/vedantvijay/Leet_D/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/vedantvijay/Leet_D/tree/master/0912-sort-an-array) |
 ## Radix Sort
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vedantvijay/Leet_D/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/vedantvijay/Leet_D/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/vedantvijay/Leet_D/tree/master/0148-sort-list) |
 ## Stack
 |  |
