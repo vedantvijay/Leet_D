@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vedantvijay/Leet_D/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/vedantvijay/Leet_D/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/vedantvijay/Leet_D/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/vedantvijay/Leet_D/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vedantvijay/Leet_D/tree/master/0242-valid-anagram) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vedantvijay/Leet_D/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/vedantvijay/Leet_D/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/vedantvijay/Leet_D/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
