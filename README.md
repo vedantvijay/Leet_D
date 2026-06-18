@@ -228,6 +228,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vedantvijay/Leet_D/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/vedantvijay/Leet_D/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/vedantvijay/Leet_D/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/vedantvijay/Leet_D/tree/master/0735-asteroid-collision) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/vedantvijay/Leet_D/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
