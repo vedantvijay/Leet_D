@@ -3,8 +3,8 @@ class Solution:
         res = []
         new_list = []
         i = 0
+        candidates.sort()
         def check_all(i,target,new_list):
-            
             if target == 0:
                 res.append(new_list.copy())
                 return 
