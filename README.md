@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/vedantvijay/Leet_D/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/vedantvijay/Leet_D/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vedantvijay/Leet_D/tree/master/1971-find-if-path-exists-in-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vedantvijay/Leet_D/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/vedantvijay/Leet_D/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/vedantvijay/Leet_D/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vedantvijay/Leet_D/tree/master/1971-find-if-path-exists-in-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vedantvijay/Leet_D/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## String
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/vedantvijay/Leet_D/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/vedantvijay/Leet_D/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vedantvijay/Leet_D/tree/master/1971-find-if-path-exists-in-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vedantvijay/Leet_D/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Matrix
 |  |
 | ------- |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/vedantvijay/Leet_D/tree/master/1971-find-if-path-exists-in-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vedantvijay/Leet_D/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Merge Sort
 |  |
 | ------- |
