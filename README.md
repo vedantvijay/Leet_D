@@ -264,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/vedantvijay/Leet_D/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/vedantvijay/Leet_D/tree/master/0077-combinations) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/vedantvijay/Leet_D/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
