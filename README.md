@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vedantvijay/Leet_D/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/vedantvijay/Leet_D/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/vedantvijay/Leet_D/tree/master/2833-furthest-point-from-origin) |
+| [3922-minimum-flips-to-make-binary-string-coherent](https://github.com/vedantvijay/Leet_D/tree/master/3922-minimum-flips-to-make-binary-string-coherent) |
 ## Trie
 |  |
 | ------- |
