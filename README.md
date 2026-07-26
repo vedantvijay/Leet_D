@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vedantvijay/Leet_D/tree/master/0027-remove-element) |
 | [0148-sort-list](https://github.com/vedantvijay/Leet_D/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vedantvijay/Leet_D/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0647-palindromic-substrings](https://github.com/vedantvijay/Leet_D/tree/master/0647-palindromic-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/vedantvijay/Leet_D/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Math
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vedantvijay/Leet_D/tree/master/0509-fibonacci-number) |
+| [0647-palindromic-substrings](https://github.com/vedantvijay/Leet_D/tree/master/0647-palindromic-substrings) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/vedantvijay/Leet_D/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Recursion
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/vedantvijay/Leet_D/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vedantvijay/Leet_D/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vedantvijay/Leet_D/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0647-palindromic-substrings](https://github.com/vedantvijay/Leet_D/tree/master/0647-palindromic-substrings) |
 | [0796-rotate-string](https://github.com/vedantvijay/Leet_D/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vedantvijay/Leet_D/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/vedantvijay/Leet_D/tree/master/2452-words-within-two-edits-of-dictionary) |
