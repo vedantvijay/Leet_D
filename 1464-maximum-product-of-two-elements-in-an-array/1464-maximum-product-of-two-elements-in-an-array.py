@@ -1,4 +1,5 @@
 class Solution(object):
     def maxProduct(self, nums):
-        nums.sort()
-        return (nums[-1]-1)*(nums[-2]-1)
+        maxi = [-n for n in nums]
+        heapq.heapify(maxi)
+        return (-heapq.heappop(maxi)-1)*(-heapq.heappop(maxi)-1)
