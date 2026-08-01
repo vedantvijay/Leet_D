@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vedantvijay/Leet_D/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vedantvijay/Leet_D/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/vedantvijay/Leet_D/tree/master/0347-top-k-frequent-elements) |
+| [0486-predict-the-winner](https://github.com/vedantvijay/Leet_D/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vedantvijay/Leet_D/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/vedantvijay/Leet_D/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/vedantvijay/Leet_D/tree/master/0735-asteroid-collision) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vedantvijay/Leet_D/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/vedantvijay/Leet_D/tree/master/0009-palindrome-number) |
+| [0486-predict-the-winner](https://github.com/vedantvijay/Leet_D/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/vedantvijay/Leet_D/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vedantvijay/Leet_D/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/vedantvijay/Leet_D/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/vedantvijay/Leet_D/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/vedantvijay/Leet_D/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/vedantvijay/Leet_D/tree/master/0647-palindromic-substrings) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/vedantvijay/Leet_D/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vedantvijay/Leet_D/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vedantvijay/Leet_D/tree/master/0025-reverse-nodes-in-k-group) |
+| [0486-predict-the-winner](https://github.com/vedantvijay/Leet_D/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/vedantvijay/Leet_D/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -285,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vedantvijay/Leet_D/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/vedantvijay/Leet_D/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
