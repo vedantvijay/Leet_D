@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/vedantvijay/Leet_D/tree/master/2784-check-if-array-is-good) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vedantvijay/Leet_D/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/vedantvijay/Leet_D/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3731-find-missing-elements](https://github.com/vedantvijay/Leet_D/tree/master/3731-find-missing-elements) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/vedantvijay/Leet_D/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Binary Search
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/vedantvijay/Leet_D/tree/master/2784-check-if-array-is-good) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/vedantvijay/Leet_D/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3536-maximum-product-of-two-digits](https://github.com/vedantvijay/Leet_D/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/vedantvijay/Leet_D/tree/master/3731-find-missing-elements) |
 ## String Matching
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/vedantvijay/Leet_D/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vedantvijay/Leet_D/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2784-check-if-array-is-good](https://github.com/vedantvijay/Leet_D/tree/master/2784-check-if-array-is-good) |
+| [3731-find-missing-elements](https://github.com/vedantvijay/Leet_D/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
