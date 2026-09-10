@@ -296,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/vedantvijay/Leet_D/tree/master/0486-predict-the-winner) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/vedantvijay/Leet_D/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
