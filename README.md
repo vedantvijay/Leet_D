@@ -300,4 +300,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/vedantvijay/Leet_D/tree/master/0196-delete-duplicate-emails) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/vedantvijay/Leet_D/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 <!---LeetCode Topics End-->
