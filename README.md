@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vedantvijay/Leet_D/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/vedantvijay/Leet_D/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/vedantvijay/Leet_D/tree/master/2833-furthest-point-from-origin) |
+| [3498-reverse-degree-of-a-string](https://github.com/vedantvijay/Leet_D/tree/master/3498-reverse-degree-of-a-string) |
 | [3922-minimum-flips-to-make-binary-string-coherent](https://github.com/vedantvijay/Leet_D/tree/master/3922-minimum-flips-to-make-binary-string-coherent) |
 ## Trie
 |  |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/vedantvijay/Leet_D/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/vedantvijay/Leet_D/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/vedantvijay/Leet_D/tree/master/2553-separate-the-digits-in-an-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/vedantvijay/Leet_D/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
